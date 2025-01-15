@@ -1,4 +1,4 @@
-# A minimal Django-based backend system to manage mutual funds and user investments, focusing on key API functionality
+# A minimal Django-based backend system with tailwind css
 
 ## Project Setup
 
